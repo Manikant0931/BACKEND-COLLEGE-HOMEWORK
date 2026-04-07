@@ -1,4 +1,14 @@
-# Node modules
+**/node_modules/
+**/.env
+.DS_Store
+*.log
+.vscode/
+**/data.json
+npm-debug.log*
+dist/
+coverage/
+.env.local
+.idea/# Node modules
 node_modules/
 
 # Package lock files (ignore from all folders)

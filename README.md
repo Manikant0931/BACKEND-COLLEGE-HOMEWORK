@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BACKEND-COLLEGE-DAILY-PROGRESS-
 
 ## Description
@@ -35,3 +36,7 @@ BACKEND-COLLEGE-DAILY-PROGRESS-/
 ```
 
 This README combines project descriptions and organizational details from previous commits.
+=======
+# BACKEND-COLLEGE-HOMEWORK
+A repo for submission of backend college homework.
+>>>>>>> 11fa9c9b7e3395623aeabe7623493e43a75f2b88
