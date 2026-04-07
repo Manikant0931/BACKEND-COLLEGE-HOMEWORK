@@ -1,0 +1,12 @@
+/node_modules
+/dist
+/.env
+/coverage
+/.DS_Store
+/package-lock.json
+/package.json
+/.vscode
+/.idea
+/.eslintcache
+/.prettiercache
+/.nyc_output
