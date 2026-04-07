@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # BACKEND-COLLEGE-DAILY-PROGRESS-
 
 ## Description
@@ -35,4 +34,4 @@ BACKEND-COLLEGE-DAILY-PROGRESS-/
 │── notes/
 ```
 
-This README was merged to preserve both the original project description and the newer repository title.
+This README combines project descriptions and organizational details from previous commits.
