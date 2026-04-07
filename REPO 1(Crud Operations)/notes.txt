@@ -1,0 +1,49 @@
+`BACKEND TASK:-
+Create a backend based application with each route(get,post,put,patch,update,delete)
+and push it on your backend github repo1.
+
+
+-----------COMPLETE NOTES FOR BACKEND APPLICATION WITH CRUD OPERATIONS-----------
+post:
+this route is used to create a new resource. 
+It accepts data in the request body and adds it to the database.
+get:
+this route is used to retrieve data from the database.
+put:
+this route is used to update an existing resource completely.
+patch:
+this route is used to update an existing resource partially.
+delete:
+this route is used to delete a resource from the database.
+
+##After handling the server.js file with the respective routes and methods for CRUD operations
+ on an items array, you can follow the steps below to test the application using Postman.
+
+
+##verify on postman by using the respective routes and methods to perform CRUD operations
+ on the items array::
+1. Start the server by running the command `node app.js` in the terminal.
+2. Use Postman to test the API endpoints:
+   - To create a new item, send a POST request to `http://localhost:3000/items` with a JSON body containing the item details.
+   - To retrieve all items, send a GET request to `http://localhost:3000/items`.
+   - To update an item completely, send a PUT request to `http://localhost:3000/items/:id` with the updated item details in the body.
+   - To update an item partially, send a PATCH request to `http://localhost:3000/items/:id` with the fields you want to update in the body.
+   - To delete an item, send a DELETE request to `http://localhost:3000/items/:id`.
+
+
+//what will be in the other folder?
+In the other folder, you can include additional files such as:
+1. `package.json` - to manage dependencies and scripts for your Node.js application.
+2. `README.md` - to provide documentation and instructions for your application.
+3. `app.js` - the main application file where you define your routes and server logic (as shown in the example code above).
+4. `data.json` - to store data persistently if you want to use a file
+based database instead of an in-memory array.
+5. `routes/` - a folder to organize your route handlers if your application grows larger.
+6. `controllers/` - a folder to separate business logic from route definitions.
+7. `models/` - a folder to define data models if you are using a database like MongoDB or SQL.
+8. `config/` - a folder to store configuration files such as database connection settings.
+9. `.gitignore` - to specify files and directories that should be ignored by Git when pushing to the repository.
+
+:)
+At last I will also add the screenshot of the postman testing for all the CRUD operations
+ to the README.md file in the GitHub repository for better understanding and documentation.`
