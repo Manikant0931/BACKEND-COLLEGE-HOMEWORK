@@ -33,8 +33,3 @@ BACKEND-COLLEGE-DAILY-PROGRESS-/
 │── experiments/
 │── notes/
 ```
-
-This README combines project descriptions and organizational details from previous commits.
-=======
-# BACKEND-COLLEGE-HOMEWORK
-A repo for submission of backend college homework.
