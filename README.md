@@ -27,7 +27,8 @@ This repository contains my daily backend development work done during college. 
 
 ```bash
 BACKEND-COLLEGE-DAILY-PROGRESS-/
-|--daily-work
+|--Repo1
+|--Repo2
 │── mini-projects/
 │── experiments/
 │── notes/
