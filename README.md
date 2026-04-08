@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# BACKEND-COLLEGE-DAILY-PROGRESS-
+# BACKEND-COLLEGE-HOMEWORK-
 
 ## Description
 
@@ -28,15 +27,9 @@ This repository contains my daily backend development work done during college. 
 
 ```bash
 BACKEND-COLLEGE-DAILY-PROGRESS-/
-│── REPO 1(Crud Operations)/
-│── REPO 2(...)/
+|--Repo1
+|--Repo2
 │── mini-projects/
 │── experiments/
 │── notes/
 ```
-
-This README combines project descriptions and organizational details from previous commits.
-=======
-# BACKEND-COLLEGE-HOMEWORK
-A repo for submission of backend college homework.
->>>>>>> 11fa9c9b7e3395623aeabe7623493e43a75f2b88
